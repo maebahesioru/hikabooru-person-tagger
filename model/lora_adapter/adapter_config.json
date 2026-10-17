@@ -35,12 +35,12 @@
   "rank_pattern": {},
   "revision": null,
   "target_modules": [
-    "v_proj",
-    "fc1",
-    "k_proj",
     "q_proj",
+    "k_proj",
+    "out_proj",
     "fc2",
-    "out_proj"
+    "fc1",
+    "v_proj"
   ],
   "target_parameters": null,
   "task_type": null,
